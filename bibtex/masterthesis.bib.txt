@@ -1,0 +1,8 @@
+@MastersThesis{ Haas2009,
+	title = "Expiration Classes for Implicit Memory Management",
+	author = "Andreas Haas",
+	school = "University of Salzburg",
+	month = sep,
+	year = "2009"
+}
+

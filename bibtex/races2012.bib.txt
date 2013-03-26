@@ -1,0 +1,7 @@
+@InProceedings{RACES12,
+  author = {A. Haas and C.M. Kirsch and M. Lippautz and H. Payer},
+  title = {How FIFO is Your Concurrent FIFO Queue?},
+  booktitle = {Proc. OOPSLA Workshop on Relaxing Synchronization for Multicore and Manycore Scalability (RACES)},
+  publisher = {ACM},
+  year = {2012},
+}

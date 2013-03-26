@@ -1,0 +1,321 @@
+<html>
+<head>
+<script type="text/javascript">
+//  var socket = new EasyWebSocket("ws://example.com/hasc_twixt");
+  var distance = 25;
+  var offset = 20;
+  var red = true;
+  var size = 24;
+  var field;
+  var redPlayer = true;
+  var bluePlayer = true;
+  var opList = [];
+  var opCount = 0;
+  
+  function init() {
+	red = true;
+	field = [];
+	upHigh = [];
+	upLow = [];
+	downHigh = [];
+	downLow = [];
+	
+	for(i = 0; i < size + 2; i++) {
+	  field[i] = [];
+	  upHigh[i] = [];
+	  upLow[i] = [];
+	  downHigh[i] = [];
+	  downLow[i] = [];
+
+	  for(j = 0; j < size + 2; j++) {
+	  field[i][j] = 0;
+		upHigh[i][j] = false;
+		upLow[i][j] = false;
+		downHigh[i][j] = false;
+		downLow[i][j] = false;
+	  }
+	}
+	
+    drawField();
+  }
+  
+  function drawField() {
+    for(i = 0; i < size; i++) {
+      for(j = 0; j < size; j++) {
+        drawCircle(i,j); 
+      }
+    }
+
+    var ctx = document.getElementById("canvas").getContext("2d");
+    ctx.beginPath();
+    ctx.lineWidth = 1;
+    ctx.strokeStyle = getColor(true);
+    ctx.moveTo(32, 32);
+    ctx.lineTo(582, 32);
+    ctx.stroke();
+    ctx.moveTo(32, 582);
+    ctx.lineTo(582, 582);
+    ctx.stroke();
+
+    ctx.beginPath();
+    ctx.strokeStyle = getColor(false);
+    ctx.moveTo(32, 32);
+    ctx.lineTo(32, 582);
+    ctx.stroke();
+    ctx.moveTo(582, 32);
+    ctx.lineTo(582, 582);
+    ctx.stroke();
+  }
+
+  function drawCircle(x, y, width, color) {
+    color = color || "#000000";
+    x = x * distance + offset;
+    y = y * distance + offset;
+    width = width || 2;
+    var ctx = document.getElementById("canvas").getContext("2d");
+    ctx.fillStyle = color;
+    ctx.beginPath();
+    ctx.arc(x, y, width, 0, Math.PI*2, true);
+    ctx.closePath();
+    ctx.fill();
+  }
+  
+  function drawLine(x1, y1, x2, y2, color) {
+    var ctx = document.getElementById("canvas").getContext("2d");
+	x1 = x1 * distance + offset;
+	x2 = x2 * distance + offset;
+	y1 = y1 * distance + offset;
+	y2 = y2 * distance + offset;
+    ctx.moveTo(x1, y1);
+	ctx.lineTo(x2, y2);
+	ctx.lineWidth = 2;
+	ctx.strokeStyle = color;
+	ctx.stroke();
+  }
+
+  function click(event) {
+    if(red && !redPlayer) {
+      return;
+    }
+    if(!red && !bluePlayer) {
+      return;
+    }
+    xpo = event.clientX;
+    ypo = event.clientY;
+	
+	var x = Math.floor((xpo - offset) / distance);
+	var y = Math.floor((ypo - offset) / distance);
+
+  var data = x*29 + y;
+  triggerEvent(data) 
+  }
+
+	
+  function chooseSide(bRed, bBlue) {
+    redPlayer=bRed;
+    bluePlayer = bBlue;
+  }
+
+//  socket.onmessage = function(event) {
+function triggerEvent(data) {
+	var x = Math.floor(data / 29);
+	var y = data - x * 29
+  opList[opCount] = {x:x, y:y};
+	opCount++;
+	doOperation(x, y);
+}
+
+  function doOperation(xpos, ypos) {
+	if(field[xpos] [ypos] === 0) {
+	  setPoint(xpos, ypos);
+	  setLines(xpos, ypos);
+          finishTurn();
+	}
+  }
+
+  function undoOp() {
+    if(opCount ===0) {
+      return;
+    }
+    var ctx = document.getElementById("canvas").getContext("2d");
+    ctx.clearRect(0, 0, 800, 800);
+    init();
+    opCount--;
+    for(var k = 0; k < opCount; k++) {
+      doOperation(opList[k].x, opList[k].y);
+    }
+  }
+  
+function finishTurn() {
+    red = !red;
+    drawCircle(29, 12, 25, getColor(red));
+  }
+
+  function setPoint(x, y) {
+	color = getColor(red);	
+	drawCircle(x, y, 5, color);
+
+	field[x][y] = red ? 1 : 2;
+  }
+
+  var lineOffsetX = [ 1,  2,  2,  1, -1, -2, -2, -1];
+  var lineOffsetY = [-2, -1,  1,  2,  2,  1, -1, -2];
+  var noOffsets = 8;
+  
+  function getColor(red) {
+    return red ? "#FF0000" : "0000FF"; 
+  }
+  
+  function setLines(x, y) {
+    for(k = 0; k < noOffsets; k++) {
+	  checkX = x + lineOffsetX[k];
+	  if(checkX < 0) {
+	    continue;
+	  }
+	  
+  	  checkY = y + lineOffsetY[k];
+	  if(checkY < 0) {
+	    continue;
+	  }
+
+	  var f = field[checkX][checkY];
+	  if(f === (red ? 1 : 2)) {
+	    activateConnection(x, y, checkX, checkY, getColor(red));
+	  }
+	}
+  }
+
+  var upHigh;
+  var upLow;
+  var downHigh;
+  var downLow;
+
+  function getConnection(up, high){
+    if(up) {
+	  return high ? upHigh : upLow;
+	} else {
+	  return high ? downHigh : downLow;
+	}
+  }
+  
+  function getCross(up, high) {
+    if(up) {
+	  return high ? upHighCross : upLowCross;
+	} else {
+	  return high ? downHighCross : downLowCross;
+	}
+  }
+  
+  var up = true;
+  var down = false;
+  var high = true;
+  var low = false;
+  
+  var upHighCross = 
+  [
+    [up, low, -1, 1],
+	[up, low, 0, 0],
+	[down, high, 0, -1],
+	[down, high, 0, 0],
+	[down, high, 0, 1],
+	[down, low, -1, 0],
+	[down, low, -1, 1],
+	[down, low, 0, 1],
+	[down, low, 0, 0],
+  ];
+  
+  var upLowCross = 
+  [
+    [down, low, -1, 0],
+	[down, low, 0, 0],
+	[down, low, 1, 0],
+	[down, high, 0, 0],
+	[down, high, 1, 0],
+	[down, high, 0, -1],
+	[down, high, 1, -1],
+	[up, high, 0, 0],
+	[up, high, 1, -1],
+  ];
+  
+  var downHighCross = 
+  [
+    [up, low, 0, 0],
+	[up, low, 0, 1],
+	[up, low, -1, 0],
+	[up, low, -1, 1],
+	[up, high, 0, -1],
+	[up, high, 0, 0],
+	[up, high, 0, 1],
+	[down, low, -1, 0],
+	[down, low, 0, 1],
+  ];
+  
+  var downLowCross = 
+  [
+    [up, low, -1, 0],
+	[up, low, 0, 0],
+	[up, low, 1, 0],
+	[up, high, 0, -1],
+	[up, high, 1, -1],
+	[up, high, 0, 0],
+	[up, high, 1, 0],
+	[down, high, 0, -1],
+	[down, high, 1, 0],
+  ];
+  
+  function activateConnection(x1, y1, x2, y2, color) {
+    var bup;
+	var bhigh;
+	if((x1 - x2) === -2) {
+	  bhigh = false;
+	  bup = (y2 < y1);
+	} else if((x1 - x2) === -1) {
+	  bhigh = true;
+	  bup = (y2 < y1);
+	} else if((x1 - x2) === 1) {
+	  bhigh = true;
+	  bup = (y2 > y1);
+	} else if((x1 - x2) === 2) {
+	  bhigh = false;
+	  bup = (y2 > y1);
+	}
+	
+    var minX = Math.min(x1, x2);
+	var minY = Math.min(y1, y2);
+	
+	var linePossible = true;
+	
+	var crossArray = getCross(bup, bhigh);
+	
+	for(i = 0; i < 9; i++) {
+	  var crossUp = crossArray[i][0];
+	  var crossHigh = crossArray[i][1];
+	  var crossX = minX + crossArray[i][2];
+	  var crossY = minY + crossArray[i][3];
+	  if( crossX < 0 || crossY < 0) {
+	    continue;
+	  }
+	  if(getConnection(crossUp, crossHigh)[crossX][crossY]) {
+	    linePossible = false;
+		break;
+	  }
+	}
+	
+	if(linePossible) {
+	  getConnection(bup, bhigh)[minX][minY] = true;
+	  drawLine(x1, y1, x2, y2, color);
+	}
+  }
+  
+</script>
+</head>
+<body onload="init()">
+  <canvas id="canvas" height="800" width="800" onclick="click(event)"></canvas>
+<p>
+  <input value="Rot" type="button" onclick="chooseSide(true, false)"/>
+  <input value="Blau" type="button" onclick="chooseSide(false, true)"/>
+  <input value="Beide" type="button" onclick="chooseSide(true, true)"/>
+  <input value="Rueckgaengig" type="button" onclick="undoOp()"/>
+</p>
+</body>
+</html>

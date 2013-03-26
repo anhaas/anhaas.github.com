@@ -1,0 +1,7 @@
+@InProceedings{ISMM11,
+  author = {M. Aigner and A. Haas and C.M. Kirsch and M. Lippautz and A. Sokolova and S. Stroka and A. Unterweger},
+  title = {Short-term Memory for Self-collecting Mutators},
+  booktitle = {Proc. International Symposium on Memory Management (ISMM)},
+  publisher = {ACM},
+  year = {2011},
+}
