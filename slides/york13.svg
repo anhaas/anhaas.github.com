@@ -12,7 +12,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    style="display:inline;enable-background:new"
-   sodipodi:docname="races12.svg"
+   sodipodi:docname="york13.svg"
    inkscape:version="0.48.4 r9939"
    version="1.1"
    id="svg2"
@@ -49,7 +49,7 @@
      showborder="true"
      borderlayer="true" />
   <title
-     id="title5223">RACES 2012</title>
+     id="title5223">York 2013</title>
   <defs
      id="defs4">
     <marker
@@ -5031,8 +5031,8 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>RACES 2012</dc:title>
-        <dc:date>2012-10-21</dc:date>
+        <dc:title>York 2013</dc:title>
+        <dc:date>2012-09-12</dc:date>
         <dc:creator>
           <cc:Agent>
             <dc:title>Andreas Haas</dc:title>
@@ -5147,7 +5147,7 @@
          id="tspan15833"
          x="1000.1448"
          y="630.46698"
-         style="text-align:end;text-anchor:end;font-family:sans-serif;-inkscape-font-specification:sans-serif">RACES Workshop, October 2012</tspan></text>
+         style="text-align:end;text-anchor:end;font-family:sans-serif;-inkscape-font-specification:sans-serif">University of York, September 2013</tspan></text>
     <rect
        ry="32.959457"
        y="130.8924"
@@ -10273,54 +10273,6 @@
       </g>
     </g>
     <g
-       style="display:inline;enable-background:new"
-       transform="translate(-23.316465,32.993815)"
-       id="g7071-7">
-      <g
-         id="g7073-5">
-        <g
-           transform="translate(-2.9344727,-266.69314)"
-           id="g7075-2"
-           style="display:inline">
-          <text
-             y="467.75577"
-             xml:space="preserve"
-             x="113.27224"
-             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-             sodipodi:linespacing="125%"
-             id="text7077-9"><tspan
-               y="467.75577"
-               x="113.27224"
-               sodipodi:role="line"
-               style="font-size:32px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-               id="tspan7079-2">Measuring relaxed implementations is future work.</tspan><tspan
-               id="tspan7081-6"
-               y="507.75577"
-               x="113.27224"
-               sodipodi:role="line"
-               style="font-size:32px;font-family:FreeSans;-inkscape-font-specification:FreeSans" /></text>
-        </g>
-        <path
-           inkscape:transform-center-y="-2.0711975"
-           inkscape:transform-center-x="-0.070368099"
-           d="m 343.25724,231.97181 -11.58289,6.69195 -0.004,-13.37706 z"
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="true"
-           sodipodi:arg2="1.0469025"
-           sodipodi:arg1="-0.00029517455"
-           sodipodi:r2="4.2648568"
-           sodipodi:r1="7.7232456"
-           sodipodi:cy="231.97409"
-           sodipodi:cx="335.534"
-           sodipodi:sides="3"
-           id="path7083-0"
-           style="fill:#5ea4f3;fill-opacity:1;stroke:#000080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;display:inline;enable-background:new"
-           sodipodi:type="star"
-           transform="translate(-253.03861,-43.060521)" />
-      </g>
-    </g>
-    <g
        ns1:effectIn="name:appear;order:2;length:100"
        id="g12961">
       <text
@@ -12445,16 +12397,11 @@
              y="527.90778"
              id="text5093"
              sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               x="172.36046"
-               y="527.90778"
-               style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-               id="tspan145908">Measure operation-fairness of relaxed FIFO queue </tspan><tspan
                id="tspan12686"
                sodipodi:role="line"
                x="172.36046"
-               y="567.90778"
-               style="font-family:sans-serif;-inkscape-font-specification:sans-serif">implementations. </tspan></text>
+               y="527.90778"
+               style="font-family:sans-serif;-inkscape-font-specification:sans-serif">Relate element-fairness and non-determinism </tspan></text>
         </g>
       </g>
       <path
@@ -12475,7 +12422,7 @@
          sodipodi:type="star" />
     </g>
     <g
-       transform="translate(-30.044234,308.35963)"
+       transform="translate(-30.044234,259.55255)"
        id="g6452-6"
        style="display:inline;enable-background:new">
       <g
