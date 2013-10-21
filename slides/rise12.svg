@@ -241,6 +241,34 @@
        refY="0"
        orient="auto"
        inkscape:stockid="DistanceStart">
+<style
+     id="style5038"
+     type="text/css">
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Asap'), local('Asap-Regular'), url(http://themes.googleusercontent.com/static/fonts/asap/v1/SgBaq0dzhSGNMfqm2JX5ng.woff) format('woff');
+}
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Asap Bold'), local('Asap-Bold'), url(http://themes.googleusercontent.com/static/fonts/asap/v1/yVILXKVgPzaz72DegpV7Bg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Asap';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Asap Italic'), local('Asap-Italic'), url(http://themes.googleusercontent.com/static/fonts/asap/v1/MdJnJ_Rxy6GcPmasGZsTfQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Asap';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Asap Bold Italic'), local('Asap-BoldItalic'), url(http://themes.googleusercontent.com/static/fonts/asap/v1/_sVKdO-TLWvaH-ptGimJBT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+</style>
       <g
          id="g2300">
         <path
@@ -5052,7 +5080,7 @@
        y="414.36218" />
     <text
        xml:space="preserve"
-       style="font-size:48px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera FreeSans"
+       style="font-size:48px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Asap"
        x="273.57144"
        y="330.21933"
        id="text20989"><tspan
@@ -5064,9 +5092,9 @@
        id="text3658"
        y="1035.2192"
        x="962.28577"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
-         style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-family:Asap;-inkscape-font-specification:Asap"
          ns1:autoText="slideNumber"
          y="1035.2192"
          x="962.28577"
@@ -5076,9 +5104,9 @@
        id="text3662"
        y="1035.4214"
        x="963.82935"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera FreeSans"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Asap"
        xml:space="preserve"><tspan
-         style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-family:Asap;-inkscape-font-specification:Asap"
          y="1035.4214"
          x="963.82935"
          id="tspan3664"
@@ -5087,9 +5115,9 @@
        id="text3666"
        y="1035.2192"
        x="971.42859"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
-         style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-family:Asap;-inkscape-font-specification:Asap"
          y="1035.2192"
          x="971.42859"
          id="tspan3668"
@@ -5106,7 +5134,7 @@
     <text
        transform="scale(1.000978,0.99902296)"
        id="text3702"
-       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Asap;-inkscape-font-specification:Asap"
        x="28.519167"
        xml:space="preserve"
        y="355.7518"
@@ -5114,7 +5142,7 @@
          id="tspan3704"
          name="slideTitle"
          sodipodi:role="line"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Asap;-inkscape-font-specification:Asap"
          x="28.519167"
          y="355.7518"
          ns1:autoText="slideTitle">MASTER SLIDE</tspan></text>
@@ -5133,7 +5161,7 @@
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <text
        xml:space="preserve"
-       style="font-size:32px;text-align:end;text-anchor:end;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;text-align:end;text-anchor:end;font-family:Asap;-inkscape-font-specification:Asap"
        x="1000.1448"
        y="630.46698"
        id="text15831"><tspan
@@ -5141,7 +5169,7 @@
          id="tspan15833"
          x="1000.1448"
          y="630.46698"
-         style="text-align:end;text-anchor:end;font-family:sans-serif;-inkscape-font-specification:sans-serif">RISE &amp; PUMA Workshop, September 2012</tspan></text>
+         style="text-align:end;text-anchor:end;font-family:Asap;-inkscape-font-specification:Asap">RISE &amp; PUMA Workshop, September 2012</tspan></text>
     <rect
        ry="32.959457"
        y="130.8924"
@@ -5155,33 +5183,33 @@
        x="509.64459"
        y="258.39166"
        id="text15819"
-       style="font-size:48px;font-family:sans-serif;-inkscape-font-specification:sans-serif"><tspan
+       style="font-size:48px;font-family:Asap;-inkscape-font-specification:Asap"><tspan
          id="tspan11768"
          sodipodi:role="line"
          x="509.64459"
          y="258.39166"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:sans-serif;-inkscape-font-specification:sans-serif">How FIFO is Your Concurrent FIFO Queue?</tspan></text>
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Asap;-inkscape-font-specification:Asap">How FIFO is Your Concurrent FIFO Queue?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:36px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:36px;font-family:Asap;-inkscape-font-specification:Asap"
        x="487.67078"
        y="420.66452"
        id="text15827"><tspan
          sodipodi:role="line"
          x="492.66296"
          y="420.66452"
-         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Asap;-inkscape-font-specification:Asap"
          id="tspan5212"><tspan
-   style="font-size:36px;font-weight:bold;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+   style="font-size:36px;font-weight:bold;font-family:Asap;-inkscape-font-specification:Asap"
    id="tspan9545">Andreas Haas</tspan>, Christoph M. Kirsch, </tspan><tspan
          id="tspan4269"
          sodipodi:role="line"
          x="487.67078"
          y="465.66452"
-         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:sans-serif;-inkscape-font-specification:sans-serif">Michael Lippautz, Hannes Payer</tspan></text>
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Asap;-inkscape-font-specification:Asap">Michael Lippautz, Hannes Payer</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:36px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:36px;font-family:Asap;-inkscape-font-specification:Asap"
        x="312.70712"
        y="521.86627"
        id="text5728"><tspan
@@ -5189,7 +5217,7 @@
          id="tspan5730"
          x="312.70712"
          y="521.86627"
-         style="font-family:sans-serif;-inkscape-font-specification:sans-serif">University of Salzburg</tspan></text>
+         style="font-family:Asap;-inkscape-font-specification:Asap">University of Salzburg</tspan></text>
   </g>
   <g
      style="display:none"
@@ -5209,7 +5237,7 @@
        id="text64145"
        y="388.63947"
        x="510.09058"
-       style="font-size:48px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:48px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="388.63947"
          x="516.74683"
@@ -5229,7 +5257,7 @@
        id="g105965">
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="250.89754"
          y="281.18958"
          id="text9808-7-9"
@@ -5257,7 +5285,7 @@
        id="text64201"
        y="349.84982"
        x="828.9964"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          id="tspan64205"
          y="349.84982"
@@ -5303,7 +5331,7 @@
          transform="matrix(1,0,0,-1,334.38128,973.61812)" />
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
          x="495.94763"
          y="362.82678"
          id="text6486-6-2"
@@ -5343,7 +5371,7 @@
          sodipodi:nodetypes="ccc" />
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="129.58553"
          y="360.42789"
          id="text6486-61"
@@ -5366,7 +5394,7 @@
          style="fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
          x="575.2887"
          y="281.18961"
          id="text9816-9-9"
@@ -5403,7 +5431,7 @@
        id="text9808-7-9-4"
        y="571.52094"
        x="106.15648"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:3;length:100"><tspan
          y="571.52094"
@@ -5433,7 +5461,7 @@
        id="text9816-9-9-7"
        y="570.60791"
        x="270.23825"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:3;length:100"><tspan
          y="570.60791"
@@ -5475,7 +5503,7 @@
          ry="11" />
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
          x="574.46252"
          y="217.0786"
          id="text9681-6"
@@ -5499,7 +5527,7 @@
        id="text9681-6-8"
        y="570.75439"
        x="432.83755"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:6;length:100"><tspan
          y="570.75439"
@@ -5512,7 +5540,7 @@
        id="text9808-7-9-4-2"
        y="673.31952"
        x="106.15648"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="673.31952"
          x="106.15648"
@@ -5542,7 +5570,7 @@
        id="text9816-9-9-7-0"
        y="673.31952"
        x="433.66373"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="673.31952"
          x="433.66373"
@@ -5563,7 +5591,7 @@
        id="text9681-6-8-6"
        y="673.46594"
        x="269.41208"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="673.46594"
          x="269.41208"
@@ -5575,7 +5603,7 @@
        id="text64611"
        y="621.0683"
        x="320.1777"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="621.0683"
          x="320.1777"
@@ -5586,7 +5614,7 @@
        id="text64615"
        y="590.87964"
        x="664.65796"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="590.87964"
          x="664.65796"
@@ -5597,7 +5625,7 @@
        ns1:effectIn="name:appear;order:5;length:100">
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="781.12903"
          y="429.323"
          id="text64619"
@@ -5656,7 +5684,7 @@
          sodipodi:open="true" />
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="387.48663"
          y="178.23953"
          id="text22458"
@@ -5693,7 +5721,7 @@
          transform="translate(8.7862715,-0.79875195)" />
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="727.78992"
          y="608.24963"
          id="text24729"
@@ -5732,7 +5760,7 @@
        id="text4274"
        y="326.03909"
        x="485.19141"
-       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="326.03909"
          x="485.19141"
@@ -5743,7 +5771,7 @@
        id="text4278"
        y="294"
        x="217.92264"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:1;length:100"><tspan
          y="294"
@@ -5765,7 +5793,7 @@
        id="text4282"
        sodipodi:linespacing="125%"
        ns1:effectIn="name:appear;order:1;length:100"><tspan
-         style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-family:Asap;-inkscape-font-specification:Asap"
          sodipodi:role="line"
          id="tspan4284"
          x="659.95197"
@@ -5793,7 +5821,7 @@
        id="text6900"
        y="324.33398"
        x="169.19591"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="324.33398"
          x="169.19591"
@@ -5816,7 +5844,7 @@
        id="text6900-7"
        y="324.33398"
        x="56.604706"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="324.33398"
          x="56.604706"
@@ -5839,7 +5867,7 @@
        id="text6900-9"
        y="324.33398"
        x="112.9003"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="324.33398"
          x="112.9003"
@@ -5861,7 +5889,7 @@
        id="text6900-92"
        y="324.33398"
        x="899.52905"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:3;length:100"><tspan
          y="324.33398"
@@ -5884,7 +5912,7 @@
        id="text6900-7-5"
        y="324.33398"
        x="786.93787"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:3;length:100"><tspan
          y="324.33398"
@@ -5907,7 +5935,7 @@
        id="text6900-9-5"
        y="324.33398"
        x="843.23346"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:3;length:100"><tspan
          y="324.33398"
@@ -5931,7 +5959,7 @@
     <text
        ns1:effectIn="name:appear;order:3;length:100"
        xml:space="preserve"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="380.7962"
        y="487.27057"
        id="text21039"
@@ -5970,7 +5998,7 @@
        ry="11" />
     <text
        xml:space="preserve"
-       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        x="485.19141"
        y="326.03909"
        id="text4363"
@@ -5997,7 +6025,7 @@
          id="text6958-4-4"
          y="575.83398"
          x="107.60352"
-         style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="575.83398"
            x="107.60352"
@@ -6023,7 +6051,7 @@
          id="text6966-2-8"
          y="648.33398"
          x="224.10352"
-         style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="648.33398"
            x="224.10352"
@@ -6049,7 +6077,7 @@
          id="text6974-5-5"
          y="559.33398"
          x="215.10352"
-         style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="559.33398"
            x="215.10352"
@@ -6062,7 +6090,7 @@
        style="display:inline;enable-background:new">
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="206.92264"
          y="398"
          id="text4278-1"
@@ -6086,7 +6114,7 @@
          id="text4505"
          y="398"
          x="206.92264"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="398"
            x="206.92264"
@@ -6104,7 +6132,7 @@
        style="display:inline;enable-background:new">
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="206.92264"
          y="398"
          id="text4278-1-4"
@@ -6128,7 +6156,7 @@
          id="text4513"
          y="398"
          x="206.92264"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="398"
            x="206.92264"
@@ -6153,7 +6181,7 @@
          y="398"
          id="text4521"
          sodipodi:linespacing="125%"><tspan
-           style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-family:Asap;-inkscape-font-specification:Asap"
            sodipodi:role="line"
            id="tspan4523"
            x="661.95197"
@@ -6170,7 +6198,7 @@
        id="text4535"
        y="323.70703"
        x="783"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          style="font-size:64px"
          y="323.70703"
@@ -6194,7 +6222,7 @@
        id="text64201-9"
        y="308.1153"
        x="946.34167"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          id="tspan64205-8"
          y="308.1153"
@@ -6341,7 +6369,7 @@
        id="text64201-9-1"
        y="986.73785"
        x="946.06458"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          id="tspan64205-8-3"
          y="986.73785"
@@ -6463,7 +6491,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text76148"
@@ -6478,7 +6506,7 @@
          id="text76159"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -6503,7 +6531,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text76191"
@@ -6518,7 +6546,7 @@
          id="text76195"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -6543,7 +6571,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text76205"
@@ -6558,7 +6586,7 @@
          id="text76209"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -6583,7 +6611,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text76219"
@@ -6598,7 +6626,7 @@
          id="text76223"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -6624,7 +6652,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text76233"
@@ -6639,7 +6667,7 @@
          id="text76237"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -6665,7 +6693,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text76247"
@@ -6680,7 +6708,7 @@
          id="text76251"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -6706,7 +6734,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text76261"
@@ -6721,7 +6749,7 @@
          id="text76265"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -6747,7 +6775,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text76275"
@@ -6762,7 +6790,7 @@
          id="text76279"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -6788,7 +6816,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text76289"
@@ -6803,7 +6831,7 @@
          id="text76293"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -6832,7 +6860,7 @@
            id="text76177"
            y="192.89861"
            x="458.48361"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            xml:space="preserve"><tspan
              y="192.89861"
              x="458.48361"
@@ -6841,7 +6869,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="170.13417"
          y="336.67395"
          id="text76181"
@@ -7027,7 +7055,7 @@
          id="text6350"
          y="190.73659"
          x="409.75494"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            id="tspan6354"
            y="190.73659"
@@ -7054,7 +7082,7 @@
     <text
        ns1:effectIn="name:appear;order:1;length:100"
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        x="946.34167"
        y="520.1153"
        id="text7263"
@@ -7177,7 +7205,7 @@
            id="text7305"
            y="192.89861"
            x="458.48361"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            xml:space="preserve"><tspan
              y="192.89861"
              x="458.48361"
@@ -7186,7 +7214,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="170.13417"
          y="336.67395"
          id="text7309"
@@ -7218,7 +7246,7 @@
            id="text7319"
            y="192.89861"
            x="458.48361"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            xml:space="preserve"><tspan
              y="192.89861"
              x="458.48361"
@@ -7227,7 +7255,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="170.13417"
          y="336.67395"
          id="text7323"
@@ -7259,7 +7287,7 @@
            id="text7333"
            y="192.89861"
            x="458.48361"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            xml:space="preserve"><tspan
              y="192.89861"
              x="458.48361"
@@ -7268,7 +7296,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="170.13417"
          y="336.67395"
          id="text7337"
@@ -7300,7 +7328,7 @@
            id="text7347"
            y="192.89861"
            x="458.48361"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            xml:space="preserve"><tspan
              y="192.89861"
              x="458.48361"
@@ -7309,7 +7337,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="170.13417"
          y="336.67395"
          id="text7351"
@@ -7396,7 +7424,7 @@
        id="text7381"
        y="726.97583"
        x="946.34167"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          id="tspan7383"
          y="726.97583"
@@ -7513,7 +7541,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text7423"
@@ -7528,7 +7556,7 @@
          id="text7427"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -7554,7 +7582,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text7437"
@@ -7569,7 +7597,7 @@
          id="text7441"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -7595,7 +7623,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text7451"
@@ -7610,7 +7638,7 @@
          id="text7455"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -7636,7 +7664,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text7465"
@@ -7651,7 +7679,7 @@
          id="text7469"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -7667,7 +7695,7 @@
          id="text7497"
          y="232.63802"
          x="722.83423"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="232.63802"
            x="722.83423"
@@ -7697,7 +7725,7 @@
          id="text7497-4"
          y="415.78818"
          x="715.79004"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="415.78818"
            x="715.79004"
@@ -7726,7 +7754,7 @@
          id="text7497-45"
          y="597.76428"
          x="723.44189"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="597.76428"
            x="723.44189"
@@ -7762,7 +7790,7 @@
        id="text118177"
        y="218.45663"
        x="27.373259"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="218.45663"
          x="27.373259"
@@ -7774,7 +7802,7 @@
        id="text118181"
        y="434.97345"
        x="28.545134"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="434.97345"
          x="28.545134"
@@ -7785,7 +7813,7 @@
        id="text118185"
        y="644.30444"
        x="28.451384"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:5;length:100"><tspan
          y="644.30444"
@@ -7811,16 +7839,16 @@
           <text
              id="text14633-3"
              sodipodi:linespacing="125%"
-             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
              x="113.27224"
              xml:space="preserve"
              y="467.75577"><tspan
                id="tspan14637-4"
-               style="font-size:32px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap"
                sodipodi:role="line"
                x="113.27224"
                y="467.75577">Consider only the invocation times of operation.</tspan><tspan
-               style="font-size:32px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+               style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap"
                sodipodi:role="line"
                x="113.27224"
                y="507.75577"
@@ -7860,19 +7888,19 @@
              y="467.75577"
              xml:space="preserve"
              x="113.27224"
-             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
              sodipodi:linespacing="125%"
              id="text29962"><tspan
                y="467.75577"
                x="113.27224"
                sodipodi:role="line"
-               style="font-size:32px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap"
                id="tspan29964">Independent of long execution times and overlappings.</tspan><tspan
                id="tspan29966"
                y="507.75577"
                x="113.27224"
                sodipodi:role="line"
-               style="font-size:32px;font-family:FreeSans;-inkscape-font-specification:FreeSans" /></text>
+               style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap" /></text>
         </g>
         <path
            inkscape:transform-center-y="-2.0711975"
@@ -7906,7 +7934,7 @@
        id="text7381-6"
        y="591.7572"
        x="947.03351"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:1;length:100"><tspan
          id="tspan7383-5"
@@ -8038,7 +8066,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text7423-3"
@@ -8053,7 +8081,7 @@
          id="text7427-7"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -8081,7 +8109,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text7437-8"
@@ -8096,7 +8124,7 @@
          id="text7441-2"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -8124,7 +8152,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text7451-2"
@@ -8139,7 +8167,7 @@
          id="text7455-2"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -8167,7 +8195,7 @@
            transform="translate(1.3930969,0.63800049)" />
         <text
            xml:space="preserve"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            x="458.48361"
            y="192.89861"
            id="text7465-1"
@@ -8182,7 +8210,7 @@
          id="text7469-5"
          y="336.67395"
          x="170.13417"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="336.67395"
            x="170.13417"
@@ -8230,7 +8258,7 @@
        id="text44477"
        y="346.21713"
        x="187.69319"
-       style="font-size:32px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="346.21713"
          x="187.69319"
@@ -8242,7 +8270,7 @@
        id="text44481"
        y="346.21713"
        x="548.62408"
-       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="346.21713"
          x="548.62408"
@@ -8267,7 +8295,7 @@
          id="text6958-4-4-2"
          y="575.83398"
          x="107.60352"
-         style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="575.83398"
            x="107.60352"
@@ -8294,7 +8322,7 @@
          id="text6974-5-5-6"
          y="559.33398"
          x="215.10352"
-         style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="559.33398"
            x="215.10352"
@@ -8347,7 +8375,7 @@
            id="text44600"
            y="192.89861"
            x="458.48361"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            xml:space="preserve"><tspan
              y="192.89861"
              x="458.48361"
@@ -8356,7 +8384,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="170.13417"
          y="336.67395"
          id="text44604"
@@ -8389,7 +8417,7 @@
            id="text53086"
            y="192.89861"
            x="458.48361"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            xml:space="preserve"><tspan
              y="192.89861"
              x="458.48361"
@@ -8398,7 +8426,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="170.13417"
          y="336.67395"
          id="text53090"
@@ -8431,7 +8459,7 @@
            id="text53100"
            y="192.89861"
            x="458.48361"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            xml:space="preserve"><tspan
              y="192.89861"
              x="458.48361"
@@ -8440,7 +8468,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="170.13417"
          y="336.67395"
          id="text53104"
@@ -8452,7 +8480,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="473.33786"
        y="677.07343"
        id="text58812"
@@ -8491,7 +8519,7 @@
          ry="16.31151" />
       <text
          xml:space="preserve"
-         style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="176.50159"
          y="405.06903"
          id="text125593-8"
@@ -8509,7 +8537,7 @@
      style="display:none">
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="242.45409"
        y="313.28494"
        id="text4642"
@@ -8520,7 +8548,7 @@
          y="313.28494">for 10.000 iterations</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="298.84155"
        y="411.18231"
        id="text4646"
@@ -8532,7 +8560,7 @@
          id="tspan4650">calculate Pi</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="298.84155"
        y="451.14807"
        id="text4654"
@@ -8543,7 +8571,7 @@
          y="451.14807">dequeue element </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="239.18846"
        y="347.25073"
        id="text4658"
@@ -8554,7 +8582,7 @@
          y="347.25073">{</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="239.18846"
        y="517.07965"
        id="text4662"
@@ -8568,7 +8596,7 @@
        id="text26103"
        y="371.21652"
        x="298.84155"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          id="tspan26105"
          y="371.21652"
@@ -8579,7 +8607,7 @@
        id="text26107"
        y="491.11386"
        x="298.84155"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:1;length:100"><tspan
          y="491.11386"
@@ -8604,7 +8632,7 @@
        ry="11" />
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="385.95456"
        y="227.05489"
        id="text4668"
@@ -8627,16 +8655,16 @@
           <text
              id="text14633-3-1"
              sodipodi:linespacing="125%"
-             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
              x="113.27224"
              xml:space="preserve"
              y="467.75577"><tspan
                id="tspan14637-4-4"
-               style="font-size:32px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap"
                sodipodi:role="line"
                x="113.27224"
                y="467.75577">No dequeues in the first 200 iterations to avoid empty checks.</tspan><tspan
-               style="font-size:32px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+               style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap"
                sodipodi:role="line"
                x="113.27224"
                y="507.75577"
@@ -8677,19 +8705,19 @@
              y="467.75577"
              xml:space="preserve"
              x="113.27224"
-             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
              sodipodi:linespacing="125%"
              id="text7077"><tspan
                y="467.75577"
                x="113.27224"
                sodipodi:role="line"
-               style="font-size:32px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap"
                id="tspan7079">No enqueues in the last 200 iterations to empty the queue.</tspan><tspan
                id="tspan7081"
                y="507.75577"
                x="113.27224"
                sodipodi:role="line"
-               style="font-size:32px;font-family:FreeSans;-inkscape-font-specification:FreeSans" /></text>
+               style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap" /></text>
         </g>
         <path
            inkscape:transform-center-y="-2.0711975"
@@ -8731,7 +8759,7 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3521"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(114.8,300.9)">
         <text
            id="text3523">0.1</text>
@@ -8742,7 +8770,7 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3527"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(114.8,252.4)">
         <text
            id="text3529">1</text>
@@ -8753,7 +8781,7 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3533"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(114.8,203.9)">
         <text
            id="text3535">10</text>
@@ -8764,7 +8792,7 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3539"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(114.8,155.5)">
         <text
            id="text3541">100</text>
@@ -8775,7 +8803,7 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3545"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(114.8,107)">
         <text
            id="text3547">1000</text>
@@ -8786,7 +8814,7 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3551"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(114.8,58.5)">
         <text
            id="text3553">10000</text>
@@ -8797,7 +8825,7 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3557"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(123.1,318.9)">
         <text
            id="text3559">0</text>
@@ -8808,7 +8836,7 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3563"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(188.3,318.9)">
         <text
            id="text3565">1000</text>
@@ -8819,7 +8847,7 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3569"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(253.4,318.9)">
         <text
            id="text3571">2000</text>
@@ -8830,7 +8858,7 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3575"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(318.6,318.9)">
         <text
            id="text3577">4000</text>
@@ -8841,7 +8869,7 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3581"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(383.7,318.9)">
         <text
            id="text3583">8000</text>
@@ -8852,7 +8880,7 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3587"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(448.9,318.9)">
         <text
            id="text3589">16000</text>
@@ -8863,7 +8891,7 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3593"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(514,318.9)">
         <text
            id="text3595">32000</text>
@@ -8874,7 +8902,7 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3599"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(579.2,318.9)">
         <text
            id="text3601">64000</text>
@@ -8885,28 +8913,28 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3605"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          transform="matrix(0,-1,1,0,34.2,175.2)">
         <text
            id="text3607">element-fairness per element</text>
       </g>
       <g
          id="g3609"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          transform="matrix(0,-1,1,0,52.2,175.2)">
         <text
            id="text3611">(logscale, less is better)</text>
       </g>
       <g
          id="g3613"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(351.1,345.9)">
         <text
            id="text3615">computational load (logscale)</text>
       </g>
       <g
          id="g3617"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(351.1,31.5)">
         <text
            id="text3619">80 threads</text>
@@ -9066,7 +9094,7 @@
        transform="matrix(1.2552943,0,0,1.2552943,60.29208,122.54204)">
       <g
          id="g3631"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(292.3,376.5)">
         <text
            id="text3633">LB</text>
@@ -9079,7 +9107,7 @@
        transform="matrix(1.2552943,0,0,1.2552943,60.29208,122.54204)">
       <g
          id="g3661"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(292.3,394.5)">
         <text
            id="text3663">MS</text>
@@ -9339,7 +9367,7 @@
        ns1:effectIn="name:appear;order:2;length:100">
       <g
          id="g3811"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(483.9,376.5)">
         <text
            id="text3813">BS k-FIFO (k=80)</text>
@@ -9352,7 +9380,7 @@
        ns1:effectIn="name:appear;order:2;length:100">
       <g
          id="g3781"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(292.3,466.5)">
         <text
            id="text3783">US k-FIFO (k=80)</text>
@@ -9365,7 +9393,7 @@
        transform="matrix(1.2552943,0,0,1.2552943,60.29208,122.54204)">
       <g
          id="g3691"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(292.3,412.5)">
         <text
            id="text3693">FC</text>
@@ -9461,7 +9489,7 @@
        ns1:effectIn="name:appear;order:4;length:100">
       <g
          id="g3841"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(483.9,394.5)">
         <text
            id="text3843">RR Scal (p=80)</text>
@@ -9714,7 +9742,7 @@
        ns1:effectIn="name:appear;order:5;length:100">
       <g
          id="g3871"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(483.9,412.5)">
         <text
            id="text3873">RA Scal (p=80)</text>
@@ -9727,7 +9755,7 @@
        ns1:effectIn="name:appear;order:5;length:100">
       <g
          id="g3901"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          transform="translate(483.9,430.5)">
         <text
            id="text3903">2RA Scal (p=80)</text>
@@ -9766,7 +9794,7 @@
          id="text41223"
          y="307.77026"
          x="214.10924"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="307.77026"
            x="214.10924"
@@ -9796,7 +9824,7 @@
          id="text41229"
          y="307.77026"
          x="805.21722"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="307.77026"
            x="805.21722"
@@ -9835,7 +9863,7 @@
          id="text41235"
          y="597.17523"
          x="214.10924"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="597.17523"
            x="214.10924"
@@ -9865,7 +9893,7 @@
          id="text41241"
          y="595.77026"
          x="805.21722"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="595.77026"
            x="805.21722"
@@ -9892,7 +9920,7 @@
          id="text41253"
          y="194.51682"
          x="502.78189"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="194.51682"
            x="502.78189"
@@ -9915,7 +9943,7 @@
          id="text41257"
          y="478.38925"
          x="502.33771"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="478.38925"
            x="502.33771"
@@ -9954,7 +9982,7 @@
          id="text42734"
          y="111.77275"
          x="-470.06659"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="111.77275"
            x="-470.06659"
@@ -9975,7 +10003,7 @@
          ry="11" />
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="-461.96307"
          y="111.77275"
          id="text42749"
@@ -10008,7 +10036,7 @@
          ry="11" />
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="508.54837"
          y="365.14487"
          id="text46308"
@@ -10041,7 +10069,7 @@
          ry="11" />
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="508.54837"
          y="365.14487"
          id="text46308-8"
@@ -10066,7 +10094,7 @@
        ns1:effectIn="name:appear;order:5;length:100" />
     <text
        xml:space="preserve"
-       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="-116.59469"
        y="571.41595"
        id="text8387"
@@ -10077,7 +10105,7 @@
          y="571.41595">s</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="-581.29974"
        y="65.972916"
        id="text8391"
@@ -10090,7 +10118,7 @@
          y="65.972916">semantic distance</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="387.45126"
        y="738.17346"
        id="text8395"
@@ -10131,7 +10159,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        x="944.5155"
        y="507.4816"
        id="text7263-9"
@@ -10254,7 +10282,7 @@
            id="text7305-5"
            y="192.89861"
            x="458.48361"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            xml:space="preserve"><tspan
              y="192.89861"
              x="458.48361"
@@ -10263,7 +10291,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="170.13417"
          y="336.67395"
          id="text7309-8"
@@ -10295,7 +10323,7 @@
            id="text7319-9"
            y="192.89861"
            x="458.48361"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            xml:space="preserve"><tspan
              y="192.89861"
              x="458.48361"
@@ -10304,7 +10332,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="170.13417"
          y="336.67395"
          id="text7323-2"
@@ -10336,7 +10364,7 @@
            id="text7333-8"
            y="192.89861"
            x="458.48361"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            xml:space="preserve"><tspan
              y="192.89861"
              x="458.48361"
@@ -10345,7 +10373,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="170.13417"
          y="336.67395"
          id="text7337-4"
@@ -10377,7 +10405,7 @@
            id="text7347-7"
            y="192.89861"
            x="458.48361"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            xml:space="preserve"><tspan
              y="192.89861"
              x="458.48361"
@@ -10386,7 +10414,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="170.13417"
          y="336.67395"
          id="text7351-4"
@@ -10477,7 +10505,7 @@
     <text
        ns1:effectIn="name:appear;order:4;length:100"
        xml:space="preserve"
-       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="75.210258"
        y="290.41251"
        id="text62741"
@@ -10505,7 +10533,7 @@
          id="text62745"
          y="524.5484"
          x="255.25157"
-         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="524.5484"
            x="255.25157"
@@ -10528,7 +10556,7 @@
          transform="translate(1.2404633,0.29071045)" />
       <text
          xml:space="preserve"
-         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="255.25157"
          y="524.5484"
          id="text62760"
@@ -10541,7 +10569,7 @@
     <text
        ns1:effectIn="name:appear;order:4;length:100"
        xml:space="preserve"
-       style="font-size:15px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:15px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="294.47394"
        y="290.41251"
        id="text62764"
@@ -10552,7 +10580,7 @@
          y="290.41251">overtakes operation enq</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:15.08150005px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:15.08150005px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        x="259.16629"
        y="535.40948"
        id="text58812-0"
@@ -10590,7 +10618,7 @@
          ry="6.2105007" />
       <text
          xml:space="preserve"
-         style="font-size:15px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:15px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="128.10501"
          y="502.81161"
          id="text125626"
@@ -10620,7 +10648,7 @@
        id="text81140"
        y="233.01578"
        x="497.51645"
-       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="233.01578"
          x="501.95395"
@@ -10643,7 +10671,7 @@
     <text
        ns1:effectIn="name:appear;order:2;length:100"
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="497.60239"
        y="427.65295"
        id="text81146"
@@ -10671,7 +10699,7 @@
          ry="16.31151" />
       <text
          xml:space="preserve"
-         style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="176.50159"
          y="405.06903"
          id="text125593"
@@ -10698,7 +10726,7 @@
          id="text125608"
          y="405.06903"
          x="176.50159"
-         style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="405.06903"
            x="176.50159"
@@ -10776,7 +10804,7 @@
            id="text7305-5-2"
            y="192.89861"
            x="458.48361"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            xml:space="preserve"><tspan
              y="192.89861"
              x="458.48361"
@@ -10785,7 +10813,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="170.13417"
          y="336.67395"
          id="text7309-8-5"
@@ -10818,7 +10846,7 @@
            id="text7319-9-4"
            y="192.89861"
            x="458.48361"
-           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
            xml:space="preserve"><tspan
              y="192.89861"
              x="458.48361"
@@ -10827,7 +10855,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="170.13417"
          y="336.67395"
          id="text7323-2-8"
@@ -10888,7 +10916,7 @@
        id="text10031"
        y="562.48871"
        x="857.84656"
-       style="font-size:32px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:1;length:100"><tspan
          y="562.48871"
@@ -10901,7 +10929,7 @@
        ns1:effectIn="name:appear;order:1;length:100">
       <text
          xml:space="preserve"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="812.56256"
          y="588.14063"
          id="text10035"
@@ -10926,7 +10954,7 @@
        id="text10041"
        y="562.48871"
        x="906.60077"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:1;length:100"><tspan
          y="562.48871"
@@ -10935,7 +10963,7 @@
          sodipodi:role="line">) = 1</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="857.84656"
        y="607.22528"
        id="text10050"
@@ -10954,7 +10982,7 @@
          id="text10056"
          y="588.14063"
          x="812.56256"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="588.14063"
            x="812.56256"
@@ -10973,7 +11001,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        x="906.60077"
        y="607.22528"
        id="text10062"
@@ -10988,7 +11016,7 @@
        id="text10031-9"
        y="669.02039"
        x="860.38843"
-       style="font-size:32px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:3;length:100"><tspan
          y="669.02039"
@@ -11002,7 +11030,7 @@
        ns1:effectIn="name:appear;order:3;length:100">
       <text
          xml:space="preserve"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="812.56256"
          y="588.14063"
          id="text10035-2"
@@ -11027,7 +11055,7 @@
        id="text10041-8"
        y="669.02039"
        x="909.14264"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:3;length:100"><tspan
          y="669.02039"
@@ -11036,7 +11064,7 @@
          sodipodi:role="line">) = 0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        x="860.38843"
        y="713.75696"
        id="text10050-0"
@@ -11056,7 +11084,7 @@
          id="text10056-1"
          y="588.14063"
          x="812.56256"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="588.14063"
            x="812.56256"
@@ -11075,7 +11103,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        x="909.14264"
        y="713.75696"
        id="text10062-6"
@@ -11101,7 +11129,7 @@
          id="text4642-5"
          y="267.28494"
          x="268.39835"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="267.28494"
            x="268.39835"
@@ -11112,7 +11140,7 @@
          id="text4646-3"
          y="323.08673"
          x="324.78583"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            id="tspan4650-6"
            y="323.08673"
@@ -11123,7 +11151,7 @@
          id="text4658-0"
          y="305.35397"
          x="265.13272"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="305.35397"
            x="265.13272"
@@ -11134,7 +11162,7 @@
          id="text4662-7"
          y="387.49203"
          x="265.13272"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="387.49203"
            x="265.13272"
@@ -11142,7 +11170,7 @@
            sodipodi:role="line">}</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="324.78583"
          y="362.98053"
          id="text34893"
@@ -11172,7 +11200,7 @@
        ns1:effectIn="name:appear;order:1;length:100" />
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        x="389.35574"
        y="310.02774"
        id="text4668-3"
@@ -11195,16 +11223,16 @@
           <text
              id="text14633-3-1-4"
              sodipodi:linespacing="125%"
-             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
              x="113.27224"
              xml:space="preserve"
              y="467.75577"><tspan
                id="tspan14637-4-4-4"
-               style="font-size:32px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap"
                sodipodi:role="line"
                x="113.27224"
                y="467.75577">Only for strict FIFO queue implementations at the moment.</tspan><tspan
-               style="font-size:32px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+               style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap"
                sodipodi:role="line"
                x="113.27224"
                y="507.75577"
@@ -11244,19 +11272,19 @@
              y="467.75577"
              xml:space="preserve"
              x="113.27224"
-             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
              sodipodi:linespacing="125%"
              id="text7077-9"><tspan
                y="467.75577"
                x="113.27224"
                sodipodi:role="line"
-               style="font-size:32px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap"
                id="tspan7079-2">Measuring relaxed implementations is future work.</tspan><tspan
                id="tspan7081-6"
                y="507.75577"
                x="113.27224"
                sodipodi:role="line"
-               style="font-size:32px;font-family:FreeSans;-inkscape-font-specification:FreeSans" /></text>
+               style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap" /></text>
         </g>
         <path
            inkscape:transform-center-y="-2.0711975"
@@ -11286,7 +11314,7 @@
          id="text4642-5-8"
          y="690.41956"
          x="196.90753"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="690.41956"
            x="196.90753"
@@ -11313,7 +11341,7 @@
          id="text4668-3-5"
          y="604.6319"
          x="326.13699"
-         style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
            y="604.6319"
            x="326.13699"
@@ -11340,7 +11368,7 @@
          id="path26" />
       <g
          transform="translate(98.2,390.9)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g28">
         <text
            id="text30">1</text>
@@ -11351,7 +11379,7 @@
          id="path32" />
       <g
          transform="translate(98.2,224.7)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g34">
         <text
            id="text36">10</text>
@@ -11362,7 +11390,7 @@
          id="path38" />
       <g
          transform="translate(98.2,58.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g40">
         <text
            id="text42">100</text>
@@ -11373,7 +11401,7 @@
          id="path44" />
       <g
          transform="translate(106.5,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g46">
         <text
            id="text48">0</text>
@@ -11384,7 +11412,7 @@
          id="path50" />
       <g
          transform="translate(174,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g52">
         <text
            id="text54">1000</text>
@@ -11395,7 +11423,7 @@
          id="path56" />
       <g
          transform="translate(241.6,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g58">
         <text
            id="text60">2000</text>
@@ -11406,7 +11434,7 @@
          id="path62" />
       <g
          transform="translate(309.1,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g64">
         <text
            id="text66">4000</text>
@@ -11417,7 +11445,7 @@
          id="path68" />
       <g
          transform="translate(376.6,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g70">
         <text
            id="text72">8000</text>
@@ -11428,7 +11456,7 @@
          id="path74" />
       <g
          transform="translate(444.1,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g76">
         <text
            id="text78">16000</text>
@@ -11439,7 +11467,7 @@
          id="path80" />
       <g
          transform="translate(511.7,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g82">
         <text
            id="text84">32000</text>
@@ -11450,7 +11478,7 @@
          id="path86" />
       <g
          transform="translate(579.2,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g88">
         <text
            id="text90">64000</text>
@@ -11461,28 +11489,28 @@
          id="path92" />
       <g
          transform="matrix(0,-1,1,0,34.2,220.2)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g94">
         <text
            id="text96">maximum operation-age</text>
       </g>
       <g
          transform="matrix(0,-1,1,0,52.2,220.2)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g98">
         <text
            id="text100">(logscale, less is better)</text>
       </g>
       <g
          transform="translate(342.8,435.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g102">
         <text
            id="text104">computational load (logscale)</text>
       </g>
       <g
          transform="translate(342.8,31.5)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g106">
         <text
            id="text108">80 threads</text>
@@ -11510,7 +11538,7 @@
        id="g118">
       <g
          transform="translate(238,466.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g120">
         <text
            id="text122">LB</text>
@@ -11607,7 +11635,7 @@
        id="g148">
       <g
          transform="translate(330,466.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g150">
         <text
            id="text152">MS</text>
@@ -11704,7 +11732,7 @@
        id="g178">
       <g
          transform="translate(422,466.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g180">
         <text
            id="text182">FC</text>
@@ -11824,7 +11852,7 @@
          id="path26-2" />
       <g
          transform="translate(123.1,390.9)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g28-2">
         <text
            id="text30-7">10</text>
@@ -11835,7 +11863,7 @@
          id="path32-1" />
       <g
          transform="translate(123.1,307.8)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g34-1">
         <text
            id="text36-5">100</text>
@@ -11846,7 +11874,7 @@
          id="path38-6" />
       <g
          transform="translate(123.1,224.7)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g40-2">
         <text
            id="text42-8">1000</text>
@@ -11857,7 +11885,7 @@
          id="path44-0" />
       <g
          transform="translate(123.1,141.6)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g46-9">
         <text
            id="text48-6">10000</text>
@@ -11868,7 +11896,7 @@
          id="path50-6" />
       <g
          transform="translate(123.1,58.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g52-7">
         <text
            id="text54-8">100000</text>
@@ -11879,7 +11907,7 @@
          id="path56-9" />
       <g
          transform="translate(131.4,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g58-1">
         <text
            id="text60-3">0</text>
@@ -11890,7 +11918,7 @@
          id="path62-6" />
       <g
          transform="translate(195.4,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g64-1">
         <text
            id="text66-0">1000</text>
@@ -11901,7 +11929,7 @@
          id="path68-6" />
       <g
          transform="translate(259.3,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g70-5">
         <text
            id="text72-2">2000</text>
@@ -11912,7 +11940,7 @@
          id="path74-0" />
       <g
          transform="translate(323.3,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g76-4">
         <text
            id="text78-2">4000</text>
@@ -11923,7 +11951,7 @@
          id="path80-1" />
       <g
          transform="translate(387.3,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g82-0">
         <text
            id="text84-5">8000</text>
@@ -11934,7 +11962,7 @@
          id="path86-0" />
       <g
          transform="translate(451.3,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g88-3">
         <text
            id="text90-7">16000</text>
@@ -11945,7 +11973,7 @@
          id="path92-9" />
       <g
          transform="translate(515.2,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g94-6">
         <text
            id="text96-8">32000</text>
@@ -11956,7 +11984,7 @@
          id="path98" />
       <g
          transform="translate(579.2,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g100">
         <text
            id="text102">64000</text>
@@ -11967,28 +11995,28 @@
          id="path104" />
       <g
          transform="matrix(0,-1,1,0,34.2,220.2)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g106-6">
         <text
            id="text108-2">maximum operation-lateness</text>
       </g>
       <g
          transform="matrix(0,-1,1,0,52.2,220.2)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g110">
         <text
            id="text112">(logscale, less is better)</text>
       </g>
       <g
          transform="translate(355.3,435.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g114-3">
         <text
            id="text116">computational load (logscale)</text>
       </g>
       <g
          transform="translate(355.3,31.5)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g118-5">
         <text
            id="text120">80 threads</text>
@@ -12016,7 +12044,7 @@
        id="g130">
       <g
          transform="translate(250.5,466.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g132">
         <text
            id="text134">LB</text>
@@ -12113,7 +12141,7 @@
        id="g160">
       <g
          transform="translate(342.5,466.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g162">
         <text
            id="text164">MS</text>
@@ -12210,7 +12238,7 @@
        id="g190">
       <g
          transform="translate(434.5,466.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g192">
         <text
            id="text194">FC</text>
@@ -12330,7 +12358,7 @@
          id="path26-0" />
       <g
          transform="translate(98.2,390.9)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g28-9">
         <text
            id="text30-4">0</text>
@@ -12341,7 +12369,7 @@
          id="path32-8" />
       <g
          transform="translate(98.2,324.4)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g34-8">
         <text
            id="text36-2">20</text>
@@ -12352,7 +12380,7 @@
          id="path38-4" />
       <g
          transform="translate(98.2,257.9)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g40-5">
         <text
            id="text42-5">40</text>
@@ -12363,7 +12391,7 @@
          id="path44-1" />
       <g
          transform="translate(98.2,191.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g46-7">
         <text
            id="text48-1">60</text>
@@ -12374,7 +12402,7 @@
          id="path50-1" />
       <g
          transform="translate(98.2,125)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g52-5">
         <text
            id="text54-2">80</text>
@@ -12385,7 +12413,7 @@
          id="path56-7" />
       <g
          transform="translate(98.2,58.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g58-6">
         <text
            id="text60-1">100</text>
@@ -12396,7 +12424,7 @@
          id="path62-4" />
       <g
          transform="translate(106.5,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g64-23">
         <text
            id="text66-2">0</text>
@@ -12407,7 +12435,7 @@
          id="path68-21" />
       <g
          transform="translate(174,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g70-6">
         <text
            id="text72-8">1000</text>
@@ -12418,7 +12446,7 @@
          id="path74-5" />
       <g
          transform="translate(241.6,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g76-7">
         <text
            id="text78-61">2000</text>
@@ -12429,7 +12457,7 @@
          id="path80-8" />
       <g
          transform="translate(309.1,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g82-9">
         <text
            id="text84-27">4000</text>
@@ -12440,7 +12468,7 @@
          id="path86-9" />
       <g
          transform="translate(376.6,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g88-5">
         <text
            id="text90-43">8000</text>
@@ -12451,7 +12479,7 @@
          id="path92-1" />
       <g
          transform="translate(444.1,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g94-2">
         <text
            id="text96-3">16000</text>
@@ -12462,7 +12490,7 @@
          id="path98-34" />
       <g
          transform="translate(511.7,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g100-1">
         <text
            id="text102-1">32000</text>
@@ -12473,7 +12501,7 @@
          id="path104-3" />
       <g
          transform="translate(579.2,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g106-8">
         <text
            id="text108-7">64000</text>
@@ -12484,28 +12512,28 @@
          id="path110-4" />
       <g
          transform="matrix(0,-1,1,0,34.2,220.2)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g112">
         <text
            id="text114">% of enqueue operations with operation-age &gt; 0</text>
       </g>
       <g
          transform="matrix(0,-1,1,0,52.2,220.2)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g116-2">
         <text
            id="text118">(less is better)</text>
       </g>
       <g
          transform="translate(342.8,435.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g120-7">
         <text
            id="text122-7">computational load (logscale)</text>
       </g>
       <g
          transform="translate(342.8,31.5)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g124-9">
         <text
            id="text126">80 threads</text>
@@ -12533,7 +12561,7 @@
        id="g136-1">
       <g
          transform="translate(238,466.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g138">
         <text
            id="text140">LB</text>
@@ -12630,7 +12658,7 @@
        id="g166-2">
       <g
          transform="translate(330,466.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g168">
         <text
            id="text170">MS</text>
@@ -12727,7 +12755,7 @@
        id="g196-3">
       <g
          transform="translate(422,466.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g198">
         <text
            id="text200">FC</text>
@@ -12847,7 +12875,7 @@
          id="path26-6" />
       <g
          transform="translate(98.2,390.9)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g28-1">
         <text
            id="text30-8">0</text>
@@ -12858,7 +12886,7 @@
          id="path32-4" />
       <g
          transform="translate(98.2,324.4)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g34-9">
         <text
            id="text36-6">20</text>
@@ -12869,7 +12897,7 @@
          id="path38-3" />
       <g
          transform="translate(98.2,257.9)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g40-7">
         <text
            id="text42-88">40</text>
@@ -12880,7 +12908,7 @@
          id="path44-2" />
       <g
          transform="translate(98.2,191.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g46-91">
         <text
            id="text48-3">60</text>
@@ -12891,7 +12919,7 @@
          id="path50-5" />
       <g
          transform="translate(98.2,125)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g52-9">
         <text
            id="text54-84">80</text>
@@ -12902,7 +12930,7 @@
          id="path56-0" />
       <g
          transform="translate(98.2,58.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g58-7">
         <text
            id="text60-6">100</text>
@@ -12913,7 +12941,7 @@
          id="path62-3" />
       <g
          transform="translate(106.5,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g64-6">
         <text
            id="text66-1">0</text>
@@ -12924,7 +12952,7 @@
          id="path68-5" />
       <g
          transform="translate(174,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g70-4">
         <text
            id="text72-20">1000</text>
@@ -12935,7 +12963,7 @@
          id="path74-9" />
       <g
          transform="translate(241.6,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g76-73">
         <text
            id="text78-7">2000</text>
@@ -12946,7 +12974,7 @@
          id="path80-2" />
       <g
          transform="translate(309.1,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g82-6">
         <text
            id="text84-0">4000</text>
@@ -12957,7 +12985,7 @@
          id="path86-1" />
       <g
          transform="translate(376.6,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g88-6">
         <text
            id="text90-5">8000</text>
@@ -12968,7 +12996,7 @@
          id="path92-7" />
       <g
          transform="translate(444.1,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g94-5">
         <text
            id="text96-4">16000</text>
@@ -12979,7 +13007,7 @@
          id="path98-1" />
       <g
          transform="translate(511.7,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g100-2">
         <text
            id="text102-0">32000</text>
@@ -12990,7 +13018,7 @@
          id="path104-0" />
       <g
          transform="translate(579.2,408.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g106-1">
         <text
            id="text108-4">64000</text>
@@ -13001,28 +13029,28 @@
          id="path110-6" />
       <g
          transform="matrix(0,-1,1,0,34.2,220.2)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g112-0">
         <text
            id="text114-7">% of enqueue operations with operation-lateness &gt; 0</text>
       </g>
       <g
          transform="matrix(0,-1,1,0,52.2,220.2)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g116-1">
         <text
            id="text118-7">(less is better)</text>
       </g>
       <g
          transform="translate(342.8,435.9)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g120-77">
         <text
            id="text122-73">computational load (logscale)</text>
       </g>
       <g
          transform="translate(342.8,31.5)"
-         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Asap"
          id="g124-3">
         <text
            id="text126-5">80 thread(s)</text>
@@ -13050,7 +13078,7 @@
        id="g136-8">
       <g
          transform="translate(238,466.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g138-2">
         <text
            id="text140-6">LB</text>
@@ -13147,7 +13175,7 @@
        id="g166-3">
       <g
          transform="translate(330,466.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g168-5">
         <text
            id="text170-1">MS</text>
@@ -13244,7 +13272,7 @@
        id="g196-4">
       <g
          transform="translate(422,466.5)"
-         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:sans-serif"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
          id="g198-3">
         <text
            id="text200-9">FC</text>
@@ -13358,7 +13386,7 @@
          y="467.75577"
          xml:space="preserve"
          x="113.27224"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
          sodipodi:linespacing="125%"
          id="text5080"
          transform="translate(-7.214245,-262.95898)"><tspan
@@ -13366,7 +13394,7 @@
            y="467.75577"
            x="113.27224"
            sodipodi:role="line"
-           style="font-size:32px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Future work</tspan></text>
+           style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap">Future work</tspan></text>
       <path
          inkscape:transform-center-y="-2.0711975"
          inkscape:transform-center-x="-0.070368099"
@@ -13398,7 +13426,7 @@
            transform="translate(-31.937044,-237.96188)">
           <text
              xml:space="preserve"
-             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
              x="172.36046"
              y="527.90778"
              id="text5093"
@@ -13406,13 +13434,13 @@
                sodipodi:role="line"
                x="172.36046"
                y="527.90778"
-               style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               style="font-family:Asap;-inkscape-font-specification:Asap"
                id="tspan145908">Measure operation-fairness of relaxed FIFO queue </tspan><tspan
                id="tspan12686"
                sodipodi:role="line"
                x="172.36046"
                y="567.90778"
-               style="font-family:sans-serif;-inkscape-font-specification:sans-serif">implementations. </tspan></text>
+               style="font-family:Asap;-inkscape-font-specification:Asap">implementations. </tspan></text>
         </g>
       </g>
       <path
@@ -13444,7 +13472,7 @@
            transform="translate(-31.937044,-237.96188)">
           <text
              xml:space="preserve"
-             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
              x="172.36046"
              y="527.90778"
              id="text3430-0-94"
@@ -13452,13 +13480,13 @@
                sodipodi:role="line"
                x="172.36046"
                y="527.90778"
-               style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               style="font-family:Asap;-inkscape-font-specification:Asap"
                id="tspan6372">Show the relation between element-fairness, </tspan><tspan
                id="tspan12720"
                sodipodi:role="line"
                x="172.36046"
                y="567.90778"
-               style="font-family:sans-serif;-inkscape-font-specification:sans-serif">operation-fairness, and semantical relaxedness.</tspan></text>
+               style="font-family:Asap;-inkscape-font-specification:Asap">operation-fairness, and semantical relaxedness.</tspan></text>
         </g>
       </g>
       <path
@@ -13486,7 +13514,7 @@
        id="a4850-9">
       <text
          xml:space="preserve"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          x="511.552"
          y="452.38324"
          id="text4784-3"
@@ -13504,7 +13532,7 @@
          y="467.75577"
          xml:space="preserve"
          x="113.27224"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
          sodipodi:linespacing="125%"
          id="text18514"
          transform="translate(-7.214245,-262.95898)"><tspan
@@ -13512,17 +13540,17 @@
            y="467.75577"
            x="113.27224"
            sodipodi:role="line"
-           style="font-size:32px;font-family:sans-serif;-inkscape-font-specification:sans-serif">We introduced element-fairness to compare the semantics</tspan><tspan
+           style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap">We introduced element-fairness to compare the semantics</tspan><tspan
            id="tspan12698"
            y="507.75577"
            x="113.27224"
            sodipodi:role="line"
-           style="font-size:32px;font-family:sans-serif;-inkscape-font-specification:sans-serif">of FIFO queue implementations.</tspan><tspan
+           style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap">of FIFO queue implementations.</tspan><tspan
            id="tspan12690"
            y="547.75574"
            x="113.27224"
            sodipodi:role="line"
-           style="font-size:32px;font-family:sans-serif;-inkscape-font-specification:sans-serif" /></text>
+           style="font-size:32px;font-family:Asap;-inkscape-font-specification:Asap" /></text>
       <path
          inkscape:transform-center-y="-2.0711975"
          inkscape:transform-center-x="-0.070368099"
@@ -13557,15 +13585,15 @@
              id="text12706"
              y="527.90778"
              x="172.36046"
-             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
              xml:space="preserve"><tspan
-               style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               style="font-family:Asap;-inkscape-font-specification:Asap"
                y="527.90778"
                x="172.36046"
                sodipodi:role="line"
                id="tspan12710">Strict implementation can appear less FIFO than relaxed</tspan><tspan
                id="tspan12716"
-               style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               style="font-family:Asap;-inkscape-font-specification:Asap"
                y="567.90778"
                x="172.36046"
                sodipodi:role="line">implementations.</tspan></text>
@@ -13615,9 +13643,9 @@
        id="text4780"
        y="403.71484"
        x="377.85156"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
-         style="font-size:56px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         style="font-size:56px;font-family:Asap;-inkscape-font-specification:Asap"
          y="403.71484"
          x="377.85156"
          id="tspan4782"
@@ -13627,7 +13655,7 @@
        id="text12722"
        y="593.81946"
        x="484.89325"
-       style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="593.81946"
          x="488.71356"
