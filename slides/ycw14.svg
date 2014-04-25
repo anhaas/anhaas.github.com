@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0979112"
-     inkscape:cx="512"
+     inkscape:cx="403.15695"
      inkscape:cy="383"
      inkscape:document-units="px"
      inkscape:current-layer="layer25"
@@ -6874,7 +6874,7 @@
            style="font-size:28px;font-family:Asap;-inkscape-font-specification:Asap"
            sodipodi:role="line"
            x="113.27224"
-           y="502.75577">at each clock cycle and synchronized across multiple cores.</tspan><tspan
+           y="502.75577">with each clock cycle and synchronized across all cores.</tspan><tspan
            style="font-size:28px;font-family:Asap;-inkscape-font-specification:Asap"
            sodipodi:role="line"
            x="113.27224"
@@ -6952,22 +6952,22 @@
        sodipodi:linespacing="125%"
        id="text62003"
        y="205.1114"
-       x="74.454285"
+       x="76.834282"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
          y="205.1114"
-         x="74.454285"
+         x="76.834282"
          id="tspan62005"
          sodipodi:role="line">Add element to the buffer</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text62007"
-       y="240.69273"
-       x="75.574287"
+       y="243.46469"
+       x="75.573906"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"><tspan
-         y="240.69273"
-         x="75.574287"
+         y="243.46469"
+         x="75.573906"
          id="tspan62009"
          sodipodi:role="line">Generate a timestamp</tspan></text>
     <text
@@ -7518,7 +7518,8 @@
          y="307.4259">if</tspan></text>
     <g
        id="g246749"
-       transform="translate(143.13166,159.66879)">
+       transform="translate(143.13166,159.66879)"
+       ns1:effectIn="name:appear;order:1;length:100">
       <path
          transform="translate(-28.325412,0.63800049)"
          d="m 479.25118,185.70982 c 0,8.38164 -6.79466,15.17629 -15.17629,15.17629 -8.38163,0 -15.17629,-6.79465 -15.17629,-15.17629 0,-8.38163 6.79466,-15.17628 15.17629,-15.17628 8.38163,0 15.17629,6.79465 15.17629,15.17628 z"
@@ -7543,7 +7544,8 @@
     </g>
     <g
        transform="translate(-212.63555,159.66879)"
-       id="g246757">
+       id="g246757"
+       ns1:effectIn="name:appear;order:1;length:100">
       <path
          sodipodi:type="arc"
          style="fill:#ffffff;fill-opacity:1;stroke:#008000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -7572,7 +7574,8 @@
        y="353.13474"
        x="261.50479"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       ns1:effectIn="name:appear;order:1;length:100"><tspan
          y="353.13474"
          x="261.50479"
          id="tspan246767"
@@ -7831,7 +7834,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer25"
-     inkscape:label="Remove Operation">
+     inkscape:label="Remove Operation"
+     style="display:inline">
     <rect
        style="fill:none;stroke:#008000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;enable-background:new"
        id="rect6046"
@@ -8066,7 +8070,7 @@
       </g>
     </g>
     <g
-       ns1:effectIn="name:appear;order:2;length:100"
+       ns1:effectIn="name:appear;order:3;length:100"
        transform="translate(80.788846,-69.951359)"
        id="g12466"
        style="display:inline;enable-background:new">
@@ -8091,7 +8095,7 @@
            y="499.43671">d</tspan></text>
     </g>
     <text
-       ns1:effectIn="name:appear;order:2;length:100"
+       ns1:effectIn="name:appear;order:3;length:100"
        sodipodi:linespacing="125%"
        id="text12474"
        y="429.48535"
@@ -8103,7 +8107,7 @@
          id="tspan12476"
          sodipodi:role="line">|4</tspan></text>
     <g
-       ns1:effectIn="name:appear;order:2;length:100"
+       ns1:effectIn="name:appear;order:3;length:100"
        transform="translate(-49.184304,16.394768)"
        id="g12496">
       <path
@@ -8149,7 +8153,7 @@
     <g
        transform="translate(-9.7913199,-8.1973841)"
        id="g12525"
-       ns1:effectIn="name:appear;order:3;length:100">
+       ns1:effectIn="name:appear;order:2;length:100">
       <path
          sodipodi:type="arc"
          style="fill:#ffffff;fill-opacity:1;stroke:#5ea4f3;stroke-width:4;stroke-opacity:1"
