@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.76109661"
-     inkscape:cx="512"
+     inkscape:cx="372.72727"
      inkscape:cy="383"
      inkscape:document-units="px"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="layer19"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="751"
@@ -6090,7 +6090,7 @@
          id="tspan15833"
          x="973.77795"
          y="691.47583"
-         style="text-align:end;text-anchor:end;font-family:Asap;-inkscape-font-specification:Asap">FRIDA, July 2014</tspan></text>
+         style="text-align:end;text-anchor:end;font-family:Asap;-inkscape-font-specification:Asap">FRIDA Workshop, July 2014</tspan></text>
     <rect
        ry="32.959457"
        y="130.8924"
@@ -10971,7 +10971,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="TS Stack: Element Order"
      id="layer19"
      inkscape:groupmode="layer">
@@ -11015,7 +11015,7 @@
          sodipodi:cy="360.11057"
          sodipodi:rx="122.36501"
          sodipodi:ry="65.969452"
-         d="m 291.39024,360.11057 c 0,36.43392 -54.78469,65.96945 -122.36502,65.96945 -67.58033,0 -122.36501,-29.53553 -122.36501,-65.96945 0,-36.43393 54.78468,-65.96946 122.36501,-65.96946 67.58033,0 122.36502,29.53553 122.36502,65.96946 z"
+         d="m 291.39024,360.11057 a 122.36501,65.969452 0 1 1 -244.73003,0 122.36501,65.969452 0 1 1 244.73003,0 z"
          transform="translate(15.057752,13.087741)" />
       <path
          style="fill:#ffffff;stroke:#5ea4f3;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -11149,7 +11149,7 @@
     <g
        ns1:effectIn="name:appear;order:2;length:100"
        id="g85586"
-       transform="translate(-217.68799,-56.676164)">
+       transform="translate(-205.68799,-56.676164)">
       <path
          sodipodi:type="arc"
          style="fill:#ffffff;fill-opacity:1;stroke:#5ea4f3;stroke-width:4;stroke-opacity:1"
@@ -11174,7 +11174,7 @@
            sodipodi:role="line"
            x="790.55835"
            y="406.42877"
-           id="tspan85578">representing the</tspan><tspan
+           id="tspan85578">approximate</tspan><tspan
            sodipodi:role="line"
            x="790.55835"
            y="436.42877"
@@ -11388,7 +11388,7 @@
          y="386.16092">[7,8]</tspan></text>
     <g
        ns1:effectIn="name:appear;order:4;length:100"
-       transform="translate(93.814507,-179.43163)"
+       transform="translate(97.814507,-179.43163)"
        id="g163423">
       <path
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -11450,7 +11450,7 @@
          sodipodi:role="line">timestamping is possible</tspan></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="TS Stack: Push-Pop Order"
      id="layer15"
      inkscape:groupmode="layer">
@@ -11536,7 +11536,7 @@
          sodipodi:cy="214.8618"
          sodipodi:rx="116.07206"
          sodipodi:ry="64.652519"
-         d="m 739.53403,214.8618 c 0,35.7066 -51.96723,64.65252 -116.07205,64.65252 -64.10483,0 -116.07206,-28.94592 -116.07206,-64.65252 0,-35.7066 51.96723,-64.65252 116.07206,-64.65252 64.10482,0 116.07205,28.94592 116.07205,64.65252 z"
+         d="m 739.53403,214.8618 a 116.07206,64.652519 0 1 1 -232.14411,0 116.07206,64.652519 0 1 1 232.14411,0 z"
          transform="translate(30.246792,9.8302077)" />
       <text
          xml:space="preserve"
