@@ -29,11 +29,11 @@
      inkscape:cx="359.58834"
      inkscape:cy="225.33276"
      inkscape:document-units="px"
-     inkscape:current-layer="layer21"
+     inkscape:current-layer="layer6"
      showgrid="false"
-     inkscape:window-width="1364"
-     inkscape:window-height="749"
-     inkscape:window-x="1024"
+     inkscape:window-width="1366"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true"
@@ -6069,7 +6069,7 @@
          id="tspan3704">MASTER SLIDE</tspan></text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Title">
@@ -6109,7 +6109,7 @@
          y="261.20178"
          x="510.33356"
          sodipodi:role="line"
-         id="tspan385960">Fast Linearizable Time-Stamped Stack</tspan></text>
+         id="tspan385960">Fast Linearizable Timestamped Stack</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7169"
@@ -10999,7 +10999,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Stack Theorem"
      id="layer21"
      inkscape:groupmode="layer">
