@@ -8716,14 +8716,14 @@
          x="374.68106"
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
          xml:space="preserve"><tspan
-           id="tspan6779"
            y="518.85724"
            x="374.68106"
-           sodipodi:role="line">lists are ordered</tspan><tspan
+           sodipodi:role="line"
+           id="tspan88096">elements in one</tspan><tspan
            y="548.85724"
            x="374.68106"
            sodipodi:role="line"
-           id="tspan88096">by timestamps</tspan></text>
+           id="tspan214436">list are ordered</tspan></text>
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
