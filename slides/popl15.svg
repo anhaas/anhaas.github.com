@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.76109661"
-     inkscape:cx="498.86106"
+     inkscape:cx="346.4494"
      inkscape:cy="383"
      inkscape:document-units="px"
-     inkscape:current-layer="layer27"
+     inkscape:current-layer="layer13"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="751"
@@ -11420,7 +11420,7 @@
      inkscape:groupmode="layer"
      id="layer27"
      inkscape:label="Elements without Timestamps"
-     style="display:inline">
+     style="display:none">
     <g
        style="display:inline;enable-background:new"
        id="g43701"
@@ -11888,7 +11888,6 @@
          id="g44148" />
     </g>
     <g
-       ns1:effectOut="name:appear;order:7;length:100"
        ns1:effectIn="name:appear;order:3;length:100"
        id="g279149"
        style="display:inline;enable-background:new"
@@ -11929,8 +11928,7 @@
        transform="translate(-30.598777,463.82561)"
        style="display:inline;enable-background:new"
        id="g279184"
-       ns1:effectIn="name:appear;order:3;length:100"
-       ns1:effectOut="name:appear;order:7;length:100">
+       ns1:effectIn="name:appear;order:3;length:100">
       <text
          transform="translate(-7.214245,-262.95898)"
          y="467.75577"
@@ -15100,7 +15098,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Stack Theorem"
      id="layer13"
      inkscape:groupmode="layer">
@@ -15108,8 +15106,7 @@
        transform="translate(-59.385722,509.81189)"
        style="display:inline;enable-background:new"
        id="g6166"
-       ns1:effectIn="name:appear;order:4;length:100"
-       ns1:effectOut="name:appear;order:7;length:100">
+       ns1:effectIn="name:appear;order:4;length:100">
       <text
          transform="translate(-7.214245,-262.95898)"
          y="467.75577"
@@ -15361,16 +15358,16 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
-       x="233.36118"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
+       x="267.492"
        y="365.35095"
        id="text46622-2"
        sodipodi:linespacing="125%"
        ns1:effectIn="name:appear;order:2;length:100"><tspan
          sodipodi:role="line"
          id="tspan46624-7"
-         x="233.36118"
-         y="365.35095">before</tspan></text>
+         x="267.492"
+         y="365.35095">&quot;before&quot;</tspan></text>
     <g
        ns1:effectIn="name:appear;order:2;length:100"
        id="g19583-3"
@@ -15462,12 +15459,12 @@
        sodipodi:linespacing="125%"
        id="text6449"
        y="365.35095"
-       x="464.83914"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
+       x="506.12701"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:2;length:100"><tspan
          y="365.35095"
-         x="464.83914"
+         x="506.12701"
          id="tspan6451"
          sodipodi:role="line">&quot;before&quot;</tspan></text>
     <path
@@ -15479,21 +15476,20 @@
        ns1:effectIn="name:appear;order:2;length:100" />
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
-       x="705.03998"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Asap;-inkscape-font-specification:Asap"
+       x="738.33081"
        y="365.35095"
        id="text6455"
        sodipodi:linespacing="125%"
        ns1:effectIn="name:appear;order:2;length:100"><tspan
          sodipodi:role="line"
          id="tspan6457"
-         x="705.03998"
-         y="365.35095">before</tspan></text>
+         x="738.33081"
+         y="365.35095">&quot;before&quot;</tspan></text>
     <g
        ns1:effectIn="name:appear;order:3;length:100"
        transform="translate(-99.254758,-11.84846)"
-       id="g73114"
-       ns1:effectOut="name:appear;order:7;length:100">
+       id="g73114">
       <path
          sodipodi:type="arc"
          style="fill:#ffffff;fill-opacity:1;stroke:#5ea4f3;stroke-width:4;stroke-opacity:1"
@@ -15528,8 +15524,7 @@
     <g
        transform="translate(32.515301,8.3178677)"
        ns1:effectIn="name:appear;order:6;length:100"
-       id="g73149"
-       ns1:effectOut="name:appear;order:7;length:100">
+       id="g73149">
       <path
          sodipodi:type="arc"
          style="fill:#ffffff;fill-opacity:1;stroke:#5ea4f3;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15573,70 +15568,9 @@
          sodipodi:nodetypes="ccc" />
     </g>
     <g
-       ns1:effectIn="name:appear;order:7;length:100"
-       id="g95720">
-      <path
-         sodipodi:type="arc"
-         style="fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="path73168"
-         sodipodi:cx="531.20929"
-         sodipodi:cy="873.1076"
-         sodipodi:rx="122.12141"
-         sodipodi:ry="47.638699"
-         d="m 653.3307,873.1076 a 122.12141,47.638699 0 1 1 -244.24282,0 122.12141,47.638699 0 1 1 244.24282,0 z"
-         transform="translate(-176.18756,-387.91511)" />
-      <text
-         xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
-         x="354.67453"
-         y="479.74518"
-         id="text73158"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           x="354.67453"
-           y="479.74518"
-           id="tspan73162">not required in the</tspan><tspan
-           sodipodi:role="line"
-           x="354.67453"
-           y="509.74518"
-           id="tspan73166">queue theorem*</tspan></text>
-      <path
-         style="fill:#ffffff;stroke:#800000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 433.3685,450.7935 49.19174,-68.307 -29.54178,77.12944"
-         id="path95718"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccc" />
-    </g>
-    <g
-       id="g95755"
-       ns1:effectIn="name:appear;order:8;length:100"
-       transform="translate(-11.32115,0)">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect95753"
-         width="607.41101"
-         height="58.281513"
-         x="212.80772"
-         y="625.77173"
-         rx="10.749166"
-         ry="10.749166" />
-      <text
-         xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap Bold"
-         x="515.50525"
-         y="661.56049"
-         id="text95749"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan95751"
-           x="515.50525"
-           y="661.56049">are stacks fundamentally more complex that queues?</tspan></text>
-    </g>
-    <g
        transform="translate(-26.546064,59.644855)"
        ns1:effectIn="name:appear;order:5;length:100"
-       id="g329537"
-       ns1:effectOut="name:appear;order:7;length:100">
+       id="g329537">
       <path
          sodipodi:type="arc"
          style="fill:#ffffff;fill-opacity:1;stroke:#5ea4f3;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15675,29 +15609,6 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccc" />
     </g>
-    <text
-       ns1:effectIn="name:appear;order:7;length:100"
-       sodipodi:linespacing="125%"
-       id="text107056"
-       y="754.38892"
-       x="16.635733"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
-       xml:space="preserve"><tspan
-         y="754.38892"
-         x="16.635733"
-         id="tspan107058"
-         sodipodi:role="line">* Henzinger et al. (CONCUR 2013)</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text279007"
-       y="727.26929"
-       x="618.84393"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap"
-       xml:space="preserve"><tspan
-         y="727.26929"
-         x="618.84393"
-         id="tspan279009"
-         sodipodi:role="line">Beispiel</tspan></text>
   </g>
   <g
      style="display:none"
@@ -16164,7 +16075,7 @@
          sodipodi:role="line"
          id="tspan138361"
          x="506.12726"
-         y="563.52832">&quot;before&quot;</tspan></text>
+         y="563.52832">before</tspan></text>
     <path
        ns1:effectIn="name:appear;order:2;length:100"
        sodipodi:nodetypes="cc"
@@ -16385,7 +16296,7 @@
          y="706.54224"
          x="506.12726"
          id="tspan138509"
-         sodipodi:role="line">&quot;before&quot;</tspan></text>
+         sodipodi:role="line">before</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker44029);display:inline;enable-background:new"
        d="m 678.74989,717.97121 119.65254,0"
@@ -16435,7 +16346,7 @@
     </g>
     <g
        id="g138527"
-       transform="translate(105.20106,138.36711)"
+       transform="translate(105.20106,133.11153)"
        ns1:effectIn="name:appear;order:3;length:100"
        style="display:inline;enable-background:new">
       <rect
@@ -17253,7 +17164,7 @@
              style="font-size:21.25px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
              transform="translate(645.3,530.2)">
             <text
-               id="text72378">EB Stack (delay=21ms)</text>
+               id="text72378">EB Stack (delay=21μs)</text>
           </g>
           <path
              id="path72380"
@@ -17353,7 +17264,7 @@
              style="font-size:21.25px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
              transform="translate(645.3,555.6)">
             <text
-               id="text72409">TS Stack (hardware clock, inverval length=6ms)</text>
+               id="text72409">TS Stack (hardware clock, interval length=6μs)</text>
           </g>
           <path
              id="path72411"
@@ -17453,7 +17364,7 @@
              style="font-size:21.25px;text-anchor:end;fill:#000000;stroke:none;font-family:Asap"
              transform="translate(645.3,581)">
             <text
-               id="text72440">TS Stack (software counter, interval length=10.5ms)</text>
+               id="text72440">TS Stack (software counter, interval length=10.5μs)</text>
           </g>
           <path
              id="path72442"
